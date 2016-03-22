@@ -1,7 +1,4 @@
-# Laravel 5.1 Beauty
+# Documentman
 
-A simple, clean and beautiful blogging application written in Laravel 5.1.
-
-This repository contains the source code to accompany the book Laravel 5.1 Beauty.
-
-This is the **Chapter 15** branch.
+A simple project to manage a list of campanies managed by a bookeeper.
+Can put bank details and manage a file/folder hierarchy for the company.
